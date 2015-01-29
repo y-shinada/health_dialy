@@ -28,7 +28,7 @@ desktop.ini
 /fuel/packages/parser/
 
 # dynamically generated files
-/fuel/app/logs/*/*/*
+/fuel/app/logs/*
 /fuel/app/cache/*/*
 /fuel/app/config/crypt.php
 
@@ -36,3 +36,4 @@ desktop.ini
 composer.phar
 CHANGELOG.md
 TESTING.md
+LICENSE.md
