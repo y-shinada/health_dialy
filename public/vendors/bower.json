@@ -1,0 +1,25 @@
+{
+  "name": "health_dialy",
+  "version": "1.0.1",
+  "homepage": "https://github.com/y-shinada",
+  "description": "aw working group(2015/02)",
+  "main": "/assets/css/core.css",
+  "keywords": [
+    "wg"
+  ],
+  "authors": [
+    "y_shinada"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartjs": "~1.0.1",
+    "bootstrap-timepicker": "~0.2.6"
+  }
+}
