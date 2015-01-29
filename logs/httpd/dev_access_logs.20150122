@@ -1,3 +1,0 @@
-172.24.1.32 - - [22/Jan/2015:21:19:52 +0900] "GET / HTTP/1.1" 200 28804 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
-172.24.1.32 - - [22/Jan/2015:21:19:52 +0900] "GET /assets/css/bootstrap.css?1421928192 HTTP/1.1" 200 119892 "http://172.24.1.41/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
-172.24.1.32 - - [22/Jan/2015:21:19:52 +0900] "GET /favicon.ico HTTP/1.1" 200 99678 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
